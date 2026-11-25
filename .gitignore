@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+tempCodeRunnerFile.py
+*.log
+uploads/
+input/
+output/
+converted/
+temp/
